@@ -1,3 +1,0 @@
-include:
-  - project: 'devops/cicd/build-pipeline'
-    file: 'net80.yml'
